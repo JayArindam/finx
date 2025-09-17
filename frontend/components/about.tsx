@@ -19,10 +19,10 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-pink-500 to-orange-500 bg-clip-text text-transparent mb-6">
-              About FinX
+              About Budget Bridge
             </h2>
             <p className="text-lg text-gray-300 mb-6">
-              FinX is a cutting-edge financial management platform powered by artificial intelligence. We combine
+              Budget Bridge is a cutting-edge financial management platform powered by artificial intelligence. We combine
               advanced algorithms with financial expertise to provide you with personalized solutions that optimize your
               finances and help you achieve your financial goals.
             </p>

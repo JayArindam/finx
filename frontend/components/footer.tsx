@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <Link href="/" className="inline-block mb-6">
               <span className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-orange-500 bg-clip-text text-transparent">
-                FinX
+                Budget Bridge
               </span>
             </Link>
             <p className="text-gray-400 mb-6">
@@ -126,7 +126,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-500 text-sm mb-4 md:mb-0">&copy; {currentYear} FinX. All rights reserved.</p>
+          <p className="text-gray-500 text-sm mb-4 md:mb-0">&copy; {currentYear} Budget Bridge. All rights reserved.</p>
           <div className="flex space-x-6">
             <Link href="#" className="text-gray-500 hover:text-white text-sm transition-colors">
               Privacy Policy
