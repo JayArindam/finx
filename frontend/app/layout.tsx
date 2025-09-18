@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'FinX',
+  title: 'Budget Bridge',
   description: 'AI powered financial advisor and manager',
   // generator: 'v0.dev',
 }
